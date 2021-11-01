@@ -2,6 +2,7 @@
 - add & edit something -> Fork & PR.
 - Have You Problem ? [create Issue](https://github.com/amirshnll/custom-device-emulation-chrome/issues/new).
 - [Send Feedback](mailto:amirsh.nll@gmail.com)
+- [Persian Document For step-by-step](https://ashokri.com/custom-device-emulation-chrome/)
 
 <br />
 
