@@ -1,34 +1,7 @@
 # custom-device-emulation-chrome
 - add & edit something -> Fork & PR.
 - Have You Problem ? [create Issue](https://github.com/amirshnll/custom-device-emulation-chrome/issues/new).
-
-<br />
-
-## How To Add Custom Device on Chrome Emulation ?
-- Open Chrome
-- Enter Shift + CTRL + I shortcut
-- Enter Shift + CTRL + M shortcut
-- Click "Dimentions"; Click "Edit" ...
-
-![](images/step1.png)
-  
-- Click "add custom device"
-
-![](images/step2.png)
-
-- Enter Device Name, Width, Height, DPR (JS), User Agent and etc.
-
-![](images/step3.PNG)
-
-- click "add" button.
-
-![](images/step4.PNG)
-
-- Finish! Use it.
-
-![](images/step5.png)
-
-- Be Happy 😃
+- [Send Feedback](mailto:amirsh.nll@gmail.com)
 
 <br />
 
@@ -127,3 +100,40 @@
 90 | Notebook with touch | 1280 | 950 | 1 |  |
 91 | Notebook with HiDPI screen | 1440 | 900 | 2 |  |
 92 | Generic notebook | 1280 | 800 | 1 |  |
+
+<br />
+
+## How To Add Custom Device on Chrome Emulation ?
+
+### Video tutorial
+
+[![](images/custom-device-emulation-chrome.png)](https://www.youtube.com/watch?v=q-bRikpfGf0)
+
+<br />
+
+### Step By Step tutorial
+- Open Chrome
+- Enter Shift + CTRL + I shortcut
+- Enter Shift + CTRL + M shortcut
+- Click "Dimentions"; Click "Edit" ...
+
+![](images/step1.png)
+  
+- Click "add custom device"
+
+![](images/step2.png)
+
+- Enter Device Name, Width, Height, DPR (JS), User Agent and etc.
+
+![](images/step3.PNG)
+
+- click "add" button.
+
+![](images/step4.PNG)
+
+- Finish! Use it.
+
+![](images/step5.png)
+
+
+Be Happy 😃
