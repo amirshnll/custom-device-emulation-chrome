@@ -48,6 +48,7 @@ Red Hydrogen One | 412 | 732 | 3.5 | Mozilla/5.0 (Linux; Android 8.1.0; H1A1000 
 Samsung Galaxy Fold | 586 | 820 | 2.625 | Mozilla/5.0 (Linux; Android 9; SM-F900U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36 |
 Samsung Galaxy Note10 | 412 | 869 | 2.625 | Mozilla/5.0 (Linux; Android 9; SM-N970XU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36 |
 Samsung Galaxy Note10+ | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N975XU) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36 |
+Samsung Galaxy A51/71 | 412 | 737 | 2.63 | Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/18.0 Chrome/99.0.4844.88 Mobile Safari/537.36 |
 Samsung Galaxy A20 | 980 | 1734 | 2.25 | Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36 |
 Samsung Galaxy S10 | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36 |
 Samsung Galaxy S10+ | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36 |
