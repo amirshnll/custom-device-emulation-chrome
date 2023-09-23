@@ -107,9 +107,9 @@ Sony Xperia Z, Z1 | 360 | 640 | 3 | Mozilla/5.0 (Linux; U; Android 4.2; en-us; S
 Amazon Kindle Fire HDX 7″ | 1920 | 1200 | 2 | Mozilla/5.0 (Linux; U; en-us; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true |
 Amazon Kindle Fire HDX 8.9″ | 2560 | 1600 | 2 | Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true |
 Amazon Kindle Fire (First Generation) | 1024 | 600 | 1 | Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.0.141.16-Gen4_11004310) AppleWebkit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16 Silk-Accelerated=true |
-Notebook with touch | 1280 | 950 | 1 |  |
-Notebook with HiDPI screen | 1440 | 900 | 2 |  |
-Generic notebook | 1280 | 800 | 1 |  |
+Notebook with touch | 1280 | 950 | 1 | - |
+Notebook with HiDPI screen | 1440 | 900 | 2 | - |
+Generic notebook | 1280 | 800 | 1 | - |
 
 <br />
 
