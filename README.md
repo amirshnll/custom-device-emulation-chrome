@@ -9,6 +9,10 @@
 ## Device Information
 | Device Name | width (viewport) | height (viewport) | DPR (JS) - CSS Pixel Ratio | User Agent |
 |---|---|---|---|---|
+iPhone 15 Pro Max | 430 | 932 | 3 | - |
+iPhone 15 Pro | 393 | 852 | 3 | - |
+iPhone 15 Plus | 430 | 932 | 3 | - |
+iPhone 15 | 393 | 852 | 3 | - |
 iPhone 14 | 390 | 844 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1 |
 iPhone 14 Plus | 428 | 926 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1 |
 iPhone 14 Pro | 393 | 852 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1 |
