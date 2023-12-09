@@ -12,9 +12,23 @@
 
 | Device Name | width (viewport) | height (viewport) | DPR (JS) - CSS Pixel Ratio | User Agent |
 |---|---|---|---|---|
+Apple MacBook 12-inch | 2304 | 1310 | 2 | - |
+Apple MacBook Pro 13-inch | 2560 | 1470 | 2 | - |
+Apple MacBook Pro 15-inch | 2880 | 1670 | 2 | - |
 iMac 24 - 2021 | 2048 | 1152 | 2 | - |
-MacBook Air 13 - 2020 | 1280 | 800 | 2 | - |
 Macbook PRO 16 - 2021 | 1728 | 1117 | 2 | - |
+MacBook Air 13 - 2020 | 1280 | 800 | 2 | - |
+MacBook Pro 16 - 2019 | 1536 | 960 | 2 | - |
+MacBook Pro 13 - 2018 | 1280 | 800 | 2 | - |
+MacBook Air 13 - 2018 | 1280 | 800 | 2 | - |
+MacBook Pro 15 - 2018 | 1440 | 900 | 2 | - |
+MacBook Pro 13 Pro - 2017 | 1440 | 900 | 2 | - |
+MacBook Pro 15 Pro - 2017 | 1280 | 800 | 2 | - |
+MacBook Pro 13 Pro - 2016 | 1280 | 800 | 2 | - |
+MacBook Pro 15 Pro - 2016 | 1440 | 900 | 2 | - |
+MacBook Pro 13 Pro - 2015 | 1280 | 800 | 2 | - |
+MacBook Pro 15 Pro - 2015 | 1440 | 900 | 2 | - |
+MacBook Pro 15 Pro - 2014 | 1440 | 900 | 2 | - |
 Notebook with touch | 1280 | 950 | 1 | - |
 Notebook with HiDPI screen | 1440 | 900 | 2 | - |
 Dell Latitude 3420 14 | 1440 | 809 | 1 | - |
