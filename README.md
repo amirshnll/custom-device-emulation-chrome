@@ -7,6 +7,37 @@
 
 
 ## Device Information
+
+### Desktop
+
+| Device Name | width (viewport) | height (viewport) | DPR (JS) - CSS Pixel Ratio | User Agent |
+|---|---|---|---|---|
+iMac 24 - 2021 | 2048 | 1152 | 2 | - |
+MacBook Air 13 - 2020 | 1280 | 800 | 2 | - |
+Macbook PRO 16 - 2021 | 1728 | 1117 | 2 | - |
+Notebook with touch | 1280 | 950 | 1 | - |
+Notebook with HiDPI screen | 1440 | 900 | 2 | - |
+Dell Latitude 3420 14 | 1440 | 809 | 1 | - |
+Microsoft Surface Duo | 1114 | 705 | 2.5 | - |
+Generic notebook | 1280 | 800 | 1 | - |
+
+### Tablet
+
+| Device Name | width (viewport) | height (viewport) | DPR (JS) - CSS Pixel Ratio | User Agent |
+|---|---|---|---|---|
+Apple iPad Air 4 - 2020 | 1180 | 820 | 2 | - |
+iPad 10.2" - 2019 | 810 | 1080 | 2 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15 |
+iPad Mini 4 | 768 | 1024 | 2 | Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B93 Safari/604.1 |
+iPad Pro (10.5") | 834 | 1112 | 2 | Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B101 Safari/604.1 |
+iPad Pro (12.9") | 1024 | 1366 | 2 | Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B101 Safari/604.1 |
+Apple iPad 1 / 2 / iPad Mini | 1024 | 768 | 1 | Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5 |
+Apple iPad 3 / 4 | 1024 | 768 | 2 | Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 |
+Amazon Kindle Fire HDX 7″ | 1920 | 1200 | 2 | Mozilla/5.0 (Linux; U; en-us; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true |
+Amazon Kindle Fire HDX 8.9″ | 2560 | 1600 | 2 | Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true |
+Amazon Kindle Fire (First Generation) | 1024 | 600 | 1 | Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.0.141.16-Gen4_11004310) AppleWebkit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16 Silk-Accelerated=true |
+
+### Mobile
+
 | Device Name | width (viewport) | height (viewport) | DPR (JS) - CSS Pixel Ratio | User Agent |
 |---|---|---|---|---|
 iPhone 15 Pro Max | 430 | 932 | 3 | - |
@@ -28,7 +59,6 @@ iPhone 12 mini | 360 | 780 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like 
 iPhone 11 | 414 | 896 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1 |
 iPhone 11 Pro | 375 | 812 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1 |
 iPhone 11 Pro Max | 414 | 896 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1 |
-iPad 10.2" (2019) | 810 | 1080 | 2 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15 |
 iPhone Xs | 375 | 812 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1 |
 iPhone Xs Max | 414 | 896 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1 |
 iPhone XR | 414 | 896 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1 |
@@ -38,17 +68,23 @@ iPhone 8 | 375 | 667 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 11_1 like Mac OS X
 iPhone 7 Plus | 414 | 736 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B150 Safari/604.1 |
 iPhone 7 | 375 | 667 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/11.0 Mobile/14E304 Safari/604.1 |
 iPhone SE | 320 | 568 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safari/601.1 |
-iPad Mini 4 | 768 | 1024 | 2 | Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B93 Safari/604.1 |
-iPad Pro (10.5") | 834 | 1112 | 2 | Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B101 Safari/604.1 |
-iPad Pro (12.9") | 1024 | 1366 | 2 | Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B101 Safari/604.1 |
-Apple iPad 1 / 2 / iPad Mini | 1024 | 768 | 1 | Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5 |
-Apple iPad 3 / 4 | 1024 | 768 | 2 | Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 |
 Apple iPhone 3GS | 320 | 480 | 1 | Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5 |
 Apple iPhone 4 | 320 | 480 | 2 | Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5 |
 Apple iPhone 5 | 320 | 568 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 |
 Apple iPhone 6 | 375 | 667 | 2 | Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4 |
 Apple iPhone 6 Plus | 414 | 736 | 3 | Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4 |
 Red Hydrogen One | 412 | 732 | 3.5 | Mozilla/5.0 (Linux; Android 8.1.0; H1A1000 Build/H1A1000.010ho.01.01.01r.089) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36 |
+Xiaomi Mi 11i | 360 | 800 | 3 | - |
+Xiaomi 12 - 2022 | 360 | 800 | 3 | - |
+Huawei P30 PRO | 360 | 780 | 3 | - |
+OnePlus Nord 2 | 412 | 915 | 2.625 | - |
+OPPO Find X3 PRO | 360 | 804 | 4 | - |
+Samsung Galaxy S22+ - 2022 | 360 | 780 | 3 | - |
+Samsung Galaxy S22 ULTRA - 2022 | 360 | 772 | 4 | - |
+Samsung Galaxy S22 - 2022 | 360 | 780 | 3 | - |
+Samsung Galaxy S21 Ultra | 360 | 800 | 4 | - |
+Samsung Galaxy A12 | 360 | 800 | 2 | - |
+Samsung Galaxy Z Flip3 - 2021 | 360 | 880 | 3 | - |
 Samsung Galaxy Fold | 586 | 820 | 2.625 | Mozilla/5.0 (Linux; Android 9; SM-F900U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36 |
 Samsung Galaxy Note10 | 412 | 869 | 2.625 | Mozilla/5.0 (Linux; Android 9; SM-N970XU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36 |
 Samsung Galaxy Note10+ | 412 | 869 | 3.5 | Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N975XU) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36 |
@@ -104,12 +140,7 @@ Nokia Lumia 7X0, Lumia 8XX, Lumia 900, N800, N810, N900 | 320 | 533 | 1.5 | Mozi
 Sony Xperia S, Ion | 360 | 640 | 2 | Mozilla/5.0 (Linux; U; Android 4.0; en-us; LT28at Build/6.1.C.1.111) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 |
 Sony Xperia Sola, U | 480 | 854 | 1 | Mozilla/5.0 (Linux; U; Android 2.3; en-us; SonyEricssonST25i Build/6.0.B.1.564) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 |
 Sony Xperia Z, Z1 | 360 | 640 | 3 | Mozilla/5.0 (Linux; U; Android 4.2; en-us; SonyC6903 Build/14.1.G.1.518) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 |
-Amazon Kindle Fire HDX 7″ | 1920 | 1200 | 2 | Mozilla/5.0 (Linux; U; en-us; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true |
-Amazon Kindle Fire HDX 8.9″ | 2560 | 1600 | 2 | Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true |
-Amazon Kindle Fire (First Generation) | 1024 | 600 | 1 | Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.0.141.16-Gen4_11004310) AppleWebkit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16 Silk-Accelerated=true |
-Notebook with touch | 1280 | 950 | 1 | - |
-Notebook with HiDPI screen | 1440 | 900 | 2 | - |
-Generic notebook | 1280 | 800 | 1 | - |
+
 
 <br />
 
