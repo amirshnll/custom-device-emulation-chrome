@@ -579,6 +579,13 @@
             "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
         },
         {
+            "device": "Samsung Galaxy A23",
+            "width": 384,
+            "height": 714,
+            "dpr": 2.81,
+            "user_agent": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36"
+        },
+        {
             "device": "Samsung Galaxy S10",
             "width": 412,
             "height": 869,
