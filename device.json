@@ -1,0 +1,939 @@
+{
+    "desktop": [
+        {
+            "device": "Apple MacBook 12-inch",
+            "width": 2304,
+            "height": 1310,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "Apple MacBook Pro 13-inch",
+            "width": 2560,
+            "height": 1470,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "Apple MacBook Pro 15-inch",
+            "width": 2880,
+            "height": 1670,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "iMac 24 - 2021",
+            "width": 2048,
+            "height": 1152,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "Macbook PRO 16 - 2021",
+            "width": 1728,
+            "height": 1117,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Air 13 - 2020",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 16 - 2019",
+            "width": 1536,
+            "height": 960,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 13 - 2018",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Air 13 - 2018",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 15 - 2018",
+            "width": 1440,
+            "height": 900,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 13 Pro - 2017",
+            "width": 1440,
+            "height": 900,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 15 Pro - 2017",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 13 Pro - 2016",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 15 Pro - 2016",
+            "width": 1440,
+            "height": 900,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 13 Pro - 2015",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 15 Pro - 2015",
+            "width": 1440,
+            "height": 900,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "MacBook Pro 15 Pro - 2014",
+            "width": 1440,
+            "height": 900,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "Notebook with touch",
+            "width": 1280,
+            "height": 950,
+            "dpr": 1,
+            "user_agent": "-"
+        },
+        {
+            "device": "Notebook with HiDPI screen",
+            "width": 1440,
+            "height": 900,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "Dell Latitude 3420 14",
+            "width": 1440,
+            "height": 809,
+            "dpr": 1,
+            "user_agent": "-"
+        },
+        {
+            "device": "Microsoft Surface Duo",
+            "width": 1114,
+            "height": 705,
+            "dpr": 2.5,
+            "user_agent": "-"
+        },
+        {
+            "device": "Generic notebook",
+            "width": 1280,
+            "height": 800,
+            "dpr": 1,
+            "user_agent": "-"
+        }
+    ],
+    "tablet": [
+        {
+            "device": "Apple iPad Air 4 - 2020",
+            "width": 1180,
+            "height": 820,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "iPad 10.2\" - 2019",
+            "width": 810,
+            "height": 1080,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+        },
+        {
+            "device": "iPad Mini 4",
+            "width": 768,
+            "height": 1024,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B93 Safari/604.1"
+        },
+        {
+            "device": "iPad Pro (10.5\")",
+            "width": 834,
+            "height": 1112,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B101 Safari/604.1"
+        },
+        {
+            "device": "iPad Pro (12.9\")",
+            "width": 1024,
+            "height": 1366,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPad; CPU OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B101 Safari/604.1"
+        },
+        {
+            "device": "Apple iPad 1 / 2 / iPad Mini",
+            "width": 1024,
+            "height": 768,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (iPad; CPU OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5"
+        },
+        {
+            "device": "Apple iPad 3 / 4",
+            "width": 1024,
+            "height": 768,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53"
+        },
+        {
+            "device": "Amazon Kindle Fire HDX 7″",
+            "width": 1920,
+            "height": 1200,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; U; en-us; KFTHWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true"
+        },
+        {
+            "device": "Amazon Kindle Fire HDX 8.9″",
+            "width": 2560,
+            "height": 1600,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true"
+        },
+        {
+            "device": "Amazon Kindle Fire (First Generation)",
+            "width": 1024,
+            "height": 600,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.0.141.16-Gen4_11004310) AppleWebkit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16 Silk-Accelerated=true"
+        }
+    ],
+    "mobile": [
+        {
+            "device": "iPhone 15 Pro Max",
+            "width": 430,
+            "height": 932,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "iPhone 15 Pro",
+            "width": 393,
+            "height": 852,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "iPhone 15 Plus",
+            "width": 430,
+            "height": 932,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "iPhone 15",
+            "width": 393,
+            "height": 852,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "iPhone 14",
+            "width": 390,
+            "height": 844,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 14 Plus",
+            "width": 428,
+            "height": 926,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 14 Pro",
+            "width": 393,
+            "height": 852,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 14 Pro Max",
+            "width": 430,
+            "height": 932,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 13 Pro Max",
+            "width": 428,
+            "height": 926,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 13 Pro",
+            "width": 390,
+            "height": 844,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 13",
+            "width": 390,
+            "height": 844,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 13 mini",
+            "width": 375,
+            "height": 812,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 12 Pro Max",
+            "width": 428,
+            "height": 926,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 12 Pro",
+            "width": 390,
+            "height": 844,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 12",
+            "width": 390,
+            "height": 844,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 12 mini",
+            "width": 375,
+            "height": 812,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.2 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 11",
+            "width": 414,
+            "height": 896,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 11 Pro",
+            "width": 375,
+            "height": 812,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone 11 Pro Max",
+            "width": 414,
+            "height": 896,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone Xs",
+            "width": 375,
+            "height": 812,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone Xs Max",
+            "width": 414,
+            "height": 896,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone XR",
+            "width": 414,
+            "height": 896,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "device": "iPhone X",
+            "width": 375,
+            "height": 812,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B93 Safari/604.1"
+        },
+        {
+            "device": "iPhone 8 Plus",
+            "width": 414,
+            "height": 736,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B93 Safari/604.1"
+        },
+        {
+            "device": "iPhone 8",
+            "width": 375,
+            "height": 667,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B93 Safari/604.1"
+        },
+        {
+            "device": "iPhone 7 Plus",
+            "width": 414,
+            "height": 736,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0 Mobile/15B150 Safari/604.1"
+        },
+        {
+            "device": "iPhone 7",
+            "width": 375,
+            "height": 667,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/11.0 Mobile/14E304 Safari/604.1"
+        },
+        {
+            "device": "iPhone SE",
+            "width": 320,
+            "height": 568,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safari/601.1"
+        },
+        {
+            "device": "Apple iPhone 3GS",
+            "width": 320,
+            "height": 480,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5"
+        },
+        {
+            "device": "Apple iPhone 4",
+            "width": 320,
+            "height": 480,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5"
+        },
+        {
+            "device": "Apple iPhone 5",
+            "width": 320,
+            "height": 568,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53"
+        },
+        {
+            "device": "Apple iPhone 6",
+            "width": 375,
+            "height": 667,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4"
+        },
+        {
+            "device": "Apple iPhone 6 Plus",
+            "width": 414,
+            "height": 736,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4"
+        },
+        {
+            "device": "Red Hydrogen One",
+            "width": 412,
+            "height": 732,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; H1A1000 Build/H1A1000.010ho.01.01.01r.089) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+        },
+        {
+            "device": "Xiaomi Mi 11i",
+            "width": 360,
+            "height": 800,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "Xiaomi 12 - 2022",
+            "width": 360,
+            "height": 800,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "Huawei P30 PRO",
+            "width": 360,
+            "height": 780,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "OnePlus Nord 2",
+            "width": 412,
+            "height": 915,
+            "dpr": 2.625,
+            "user_agent": "-"
+        },
+        {
+            "device": "OPPO Find X3 PRO",
+            "width": 360,
+            "height": 804,
+            "dpr": 4,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy S22+ - 2022",
+            "width": 360,
+            "height": 780,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy S22 ULTRA - 2022",
+            "width": 360,
+            "height": 772,
+            "dpr": 4,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy S22 - 2022",
+            "width": 360,
+            "height": 780,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy S21 Ultra",
+            "width": 360,
+            "height": 800,
+            "dpr": 4,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy A12",
+            "width": 360,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy Z Flip3 - 2021",
+            "width": 360,
+            "height": 880,
+            "dpr": 3,
+            "user_agent": "-"
+        },
+        {
+            "device": "Samsung Galaxy Fold",
+            "width": 586,
+            "height": 820,
+            "dpr": 2.625,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-F900U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Note10",
+            "width": 412,
+            "height": 869,
+            "dpr": 2.625,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-N970XU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Note10+",
+            "width": 412,
+            "height": 869,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-N975XU) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy A51/71",
+            "width": 412,
+            "height": 737,
+            "dpr": 2.63,
+            "user_agent": "Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/18.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy A20",
+            "width": 980,
+            "height": 1734,
+            "dpr": 2.25,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-A205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S10",
+            "width": 412,
+            "height": 869,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S10+",
+            "width": 412,
+            "height": 869,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S10e",
+            "width": 360,
+            "height": 760,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S9",
+            "width": 360,
+            "height": 740,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G960U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S9+",
+            "width": 320,
+            "height": 658,
+            "dpr": 4.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Note 9",
+            "width": 412,
+            "height": 846,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-N960U Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Note 3",
+            "width": 360,
+            "height": 640,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        },
+        {
+            "device": "Samsung Galaxy Note II",
+            "width": 360,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 4.1; en-us; GT-N7100 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        },
+        {
+            "device": "Samsung Galaxy Note",
+            "width": 400,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.3; en-us; SAMSUNG-SGH-I717 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Samsung Galaxy S III, Galaxy Nexus",
+            "width": 360,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 4.0; en-us; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        },
+        {
+            "device": "Samsung Galaxy S, S II, W",
+            "width": 320,
+            "height": 533,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.1; en-us; GT-I9000 Build/ECLAIR) AppleWebKit/525.10+ (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2"
+        },
+        {
+            "device": "Samsung Galaxy S4",
+            "width": 360,
+            "height": 640,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.2.2; GT-I9505 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Tab S3",
+            "width": 768,
+            "height": 1024,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-T827V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Tab S4",
+            "width": 1138,
+            "height": 712,
+            "dpr": 2.25,
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; SM-T837A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy Tab 7.7, 8.9, 10.1",
+            "width": 1280,
+            "height": 800,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; en-us; SCH-I800 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Samsung Galaxy Tab",
+            "width": 1024,
+            "height": 600,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; en-us; SCH-I800 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Samsung Galaxy Note 8",
+            "width": 412,
+            "height": 846,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-N950U Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chrome/56.0.2924.87 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S8",
+            "width": 360,
+            "height": 740,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G950U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S8+",
+            "width": 412,
+            "height": 846,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 7.0; SM-G955U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36"
+        },
+        {
+            "device": "Samsung Galaxy S7",
+            "width": 360,
+            "height": 640,
+            "dpr": 4,
+            "user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G935V Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36"
+        },
+        {
+            "device": "Google Pixel 4",
+            "width": 353,
+            "height": 745,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36"
+        },
+        {
+            "device": "Google Pixel 4 XL",
+            "width": 412,
+            "height": 869,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 10; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36"
+        },
+        {
+            "device": "Google Pixel 3",
+            "width": 393,
+            "height": 786,
+            "dpr": 2.75,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; Pixel 3 Build/PQ1A.181105.017.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36"
+        },
+        {
+            "device": "Google Pixel 3 XL",
+            "width": 412,
+            "height": 846,
+            "dpr": 3.5,
+            "user_agent": "Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PQ1A.181105.017.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36"
+        },
+        {
+            "device": "Google Nexus 4",
+            "width": 384,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 4 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+        },
+        {
+            "device": "Google Nexus 5",
+            "width": 360,
+            "height": 640,
+            "dpr": 3,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+        },
+        {
+            "device": "Google Nexus S",
+            "width": 320,
+            "height": 533,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; Nexus S Build/GRJ22) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Google Nexus 10",
+            "width": 1280,
+            "height": 800,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.3; Nexus 10 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36"
+        },
+        {
+            "device": "Google Nexus 7 2",
+            "width": 960,
+            "height": 600,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36"
+        },
+        {
+            "device": "Google Nexus 7",
+            "width": 966,
+            "height": 604,
+            "dpr": 1.325,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.72 Safari/537.36"
+        },
+        {
+            "device": "Palm PVG100",
+            "width": 360,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 8.1.0; PVG100 Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36"
+        },
+        {
+            "device": "BlackBerry Z10",
+            "width": 384,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+"
+        },
+        {
+            "device": "BlackBerry Z30",
+            "width": 360,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/10.0.9.2372 Mobile Safari/537.10+"
+        },
+        {
+            "device": "BlackBerry PlayBook",
+            "width": 1024,
+            "height": 600,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/7.2.1.0 Safari/536.2+"
+        },
+        {
+            "device": "HTC Evo, Touch HD, Desire HD, Desire",
+            "width": 320,
+            "height": 533,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; en-us; Sprint APA9292KT Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "HTC One X, EVO LTE",
+            "width": 360,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.0.3; HTC One X Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19"
+        },
+        {
+            "device": "HTC Sensation, Evo 3D",
+            "width": 360,
+            "height": 640,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; HTC Sensation Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        },
+        {
+            "device": "LG Optimus 2X, Optimus 3D, Optimus Black",
+            "width": 320,
+            "height": 533,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; en-us; LG-P990/V08c Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 MMS/LG-Android-MMS-V1.0/1.2"
+        },
+        {
+            "device": "LG Optimus G",
+            "width": 384,
+            "height": 640,
+            "dpr": 2,
+            "user_agent": "Mozilla/5.0 (Linux; Android 4.0; LG-E975 Build/IMM76L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19"
+        },
+        {
+            "device": "LG Optimus LTE, Optimus 4X HD",
+            "width": 424,
+            "height": 753,
+            "dpr": 1.7,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.3; en-us; LG-P930 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "LG Optimus One",
+            "width": 213,
+            "height": 320,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; LG-MS690 Build/FRG83) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Motorola Defy, Droid, Droid X, Milestone",
+            "width": 320,
+            "height": 569,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.0; en-us; Milestone Build/ SHOLS_U2_01.03.1) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17"
+        },
+        {
+            "device": "Motorola Droid 3, Droid 4, Droid Razr, Atrix 4G, Atrix 2",
+            "width": 540,
+            "height": 960,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.2; en-us; Droid Build/FRG22D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Motorola Droid Razr HD",
+            "width": 720,
+            "height": 1280,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.3; en-us; DROID RAZR 4G Build/6.5.1-73_DHD-11_M1-29) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Motorola Xoom, Xyboard",
+            "width": 1280,
+            "height": 800,
+            "dpr": 1,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 3.0; en-us; Xoom Build/HRI39) AppleWebKit/525.10 (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2"
+        },
+        {
+            "device": "Nokia C5, C6, C7, N97, N8, X7",
+            "width": 360,
+            "height": 640,
+            "dpr": 1,
+            "user_agent": "NokiaN97/21.1.107 (SymbianOS/9.4; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebkit/525 (KHTML, like Gecko) BrowserNG/7.1.4"
+        },
+        {
+            "device": "Nokia Lumia 7X0, Lumia 8XX, Lumia 900, N800, N810, N900",
+            "width": 320,
+            "height": 533,
+            "dpr": 1.5,
+            "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820)"
+        },
+        {
+            "device": "Nokia Lumia 7X0, Lumia 8XX, Lumia 900, N800, N810, N900",
+            "width": 320,
+            "height": 533,
+            "pixel ratio": 1.5,
+            "user_agent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 820)"
+        },
+        {
+            "device": "Sony Xperia S, Ion",
+            "width": 360,
+            "height": 640,
+            "pixel ratio": 2,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 4.0; en-us; LT28at Build/6.1.C.1.111) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        },
+        {
+            "device": "Sony Xperia Sola, U",
+            "width": 480,
+            "height": 854,
+            "pixel ratio": 1,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 2.3; en-us; SonyEricssonST25i Build/6.0.B.1.564) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+        },
+        {
+            "device": "Sony Xperia Z, Z1",
+            "width": 360,
+            "height": 640,
+            "pixel ratio": 3,
+            "user_agent": "Mozilla/5.0 (Linux; U; Android 4.2; en-us; SonyC6903 Build/14.1.G.1.518) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30"
+        }
+    ]
+}
