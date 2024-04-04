@@ -153,6 +153,13 @@
             "height": 800,
             "dpr": 1,
             "user_agent": "-"
+        },
+        {
+            "device": "Full HD",
+            "width": 1920,
+            "height": 1080,
+            "dpr": 1,
+            "user_agent": "-"
         }
     ],
     "tablet": [

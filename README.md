@@ -34,6 +34,7 @@ Notebook with HiDPI screen | 1440 | 900 | 2 | - |
 Dell Latitude 3420 14 | 1440 | 809 | 1 | - |
 Microsoft Surface Duo | 1114 | 705 | 2.5 | - |
 Generic notebook | 1280 | 800 | 1 | - |
+Full HD | 1920 | 1080 | 1 | - |
 
 ### Tablet
 
