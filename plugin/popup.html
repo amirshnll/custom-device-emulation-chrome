@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Device Viewer</title>
+</head>
+
+<body>
+    <div id="app">
+        <!-- Added Icon -->
+        <img src="icon48.png" alt="Device Viewer" title="Device Viewer" class="app-icon" />
+
+        <h1>Device Viewer</h1>
+
+        <div class="controls">
+            <select id="category" class="control">
+                <option value="desktop">Desktop</option>
+                <option value="tablet">Tablet</option>
+                <option value="mobile">Mobile</option>
+            </select>
+            <input type="text" id="search" class="control" placeholder="Search for a device..." />
+        </div>
+
+        <div id="results" class="results"></div>
+
+        <!-- Added Copyright -->
+        <footer id="footer">
+            <p>
+                © <span id="year"></span>
+                <a href="https://github.com/amirshnll/custom-device-emulation-chrome" target="_blank">Custom Device Emulation Chrome</a> | MIT License.
+            </p>
+        </footer>
+    </div>
+    <script src="popup.js"></script>
+</body>
+
+</html>
