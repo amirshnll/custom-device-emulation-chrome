@@ -161,13 +161,6 @@ Sony Xperia Z, Z1 | 360 | 640 | 3 | Mozilla/5.0 (Linux; U; Android 4.2; en-us; S
 
 ## How To Add Custom Device on Chrome Emulation ?
 
-### Video tutorial
-
-[![](images/custom-device-emulation-chrome.png)](https://www.youtube.com/watch?v=q-bRikpfGf0)
-
-<br />
-
-### Step By Step tutorial
 - Open Chrome
 - Enter Shift + CTRL + I shortcut
 - Enter Shift + CTRL + M shortcut
