@@ -1,5 +1,12 @@
 # Custom Device Emulation Chrome
 
+[![GitHub stars](https://img.shields.io/github/stars/amirshnll/custom-device-emulation-chrome?style=flat-square&logo=github&color=eab308)](https://github.com/amirshnll/custom-device-emulation-chrome/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amirshnll/custom-device-emulation-chrome?style=flat-square&logo=github)](https://github.com/amirshnll/custom-device-emulation-chrome/forks)
+[![Extension version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Famirshnll%2Fcustom-device-emulation-chrome%2Fmain%2Fplugin%2Fmanifest.json&query=%24.version&label=extension&prefix=v&color=2563eb&style=flat-square)](https://github.com/amirshnll/custom-device-emulation-chrome/blob/main/plugin/manifest.json)
+[![License](https://img.shields.io/github/license/amirshnll/custom-device-emulation-chrome?style=flat-square&color=16a34a)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/amirshnll/custom-device-emulation-chrome?style=flat-square)](https://github.com/amirshnll/custom-device-emulation-chrome/commits/main/)
+[![Open issues](https://img.shields.io/github/issues/amirshnll/custom-device-emulation-chrome?style=flat-square)](https://github.com/amirshnll/custom-device-emulation-chrome/issues)
+
 **Device dimensions, pixel ratios and user agents for responsive testing in Chrome DevTools.** Find a preset, copy its values and add a custom device in Chrome.
 
 [Browse the catalogue](#device-catalogue) · [Get the extension](#chrome-extension) · [Download JSON](device.json) · [Data quality](docs/data-quality.md)
