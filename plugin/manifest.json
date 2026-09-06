@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Custom Device Emulation Chrome",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Search device dimensions and pixel ratios for responsive testing in Chrome DevTools.",
   "permissions": [],
   "icons": {

@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.4.0 — 2026-09-06
+## 1.5.0 — 2026-09-06
 
 - Add a searchable, responsive device catalogue with filters, copy actions and source notes.
 - Reorganize README around quick start, dataset and unpacked extension installation.

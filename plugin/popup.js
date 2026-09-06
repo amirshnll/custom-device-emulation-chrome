@@ -47,7 +47,7 @@ async function loadDevices() {
             response = await fetch('device.json');
             if (!response.ok) throw Error('Bundled data unavailable');
             Object.assign(deviceData, await response.json());
-            status.textContent = 'Offline snapshot · bundled with version 1.4.0';
+            status.textContent = 'Offline snapshot · bundled with version 1.5.0';
         }
         displayDevices(categorySelect.value, searchInput.value);
     } catch { status.textContent = 'Could not load device data. Reopen the extension to retry.'; }
