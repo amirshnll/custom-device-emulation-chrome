@@ -24,3 +24,9 @@ Report a bug by opening a new issue; it's that easy!
   - Be specific!
   - Give sample code if you can.
 - What you expected
+
+## Device evidence checklist
+
+Edit `device.json`, not the archived Markdown table. Keep existing fields and add `source`, `last_verified` (YYYY-MM-DD or null), `status`, `dimension_type` and `notes`. New source-checked records need a source URL and explicit viewport/screen distinction. Never mark old records verified merely because they were migrated. Include browser/OS, orientation and zoom for real-device measurements. Read [data quality](docs/data-quality.md).
+
+Run `python3 scripts/build.py` and `node --check site.js`. Run `python3 scripts/sync-extension.py` after changing device data. Open a pull request with your evidence and describe any changed dimensions.

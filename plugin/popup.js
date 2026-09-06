@@ -1,21 +1,5 @@
 const deviceData = {};
 
-// Load JSON from the URL
-fetch('https://raw.githubusercontent.com/amirshnll/custom-device-emulation-chrome/refs/heads/main/device.json')
-    .then(response => {
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-    })
-    .then(data => {
-        Object.assign(deviceData, data);
-        displayDevices("desktop", "");
-    })
-    .catch(error => {
-        resultsDiv.innerHTML = "<div>Failed to load devices. Please try again later.</div>";
-    });
-
 const categorySelect = document.getElementById("category");
 const searchInput = document.getElementById("search");
 const resultsDiv = document.getElementById("results");
@@ -49,3 +33,23 @@ function displayDevices(category, search) {
         resultsDiv.appendChild(div);
     });
 }
+
+async function loadDevices() {
+    const status = document.getElementById('data-status');
+    try {
+        let response;
+        try {
+            response = await fetch('https://raw.githubusercontent.com/amirshnll/custom-device-emulation-chrome/refs/heads/main/device.json', {signal: AbortSignal.timeout(4000)});
+            if (!response.ok) throw Error('Remote data unavailable');
+            Object.assign(deviceData, await response.json());
+            status.textContent = 'Loaded current GitHub dataset.';
+        } catch {
+            response = await fetch('device.json');
+            if (!response.ok) throw Error('Bundled data unavailable');
+            Object.assign(deviceData, await response.json());
+            status.textContent = 'Offline snapshot · bundled with version 1.4.0';
+        }
+        displayDevices(categorySelect.value, searchInput.value);
+    } catch { status.textContent = 'Could not load device data. Reopen the extension to retry.'; }
+}
+loadDevices();
