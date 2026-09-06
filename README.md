@@ -37,7 +37,18 @@ python3 -m http.server 8000 --directory dist
 
 Open http://localhost:8000. The website uses plain HTML, CSS and JavaScript, with no package installation. Serve it over HTTP; opening the HTML file directly cannot reliably load JSON.
 
-The `dist/` directory is ready for static hosting. A private Sites preview is for the owner; a public catalogue link should be added here only after public hosting is enabled.
+### Publish with GitHub Pages
+
+1. Push these files to the repository's `main` branch.
+2. In **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**.
+3. In **Actions**, run **Deploy device catalogue to GitHub Pages** (or push another commit to `main`).
+
+The workflow validates the dataset, builds the static website and publishes only `dist/`. Subsequent pushes to `main` deploy automatically. No external hosting account or additional deployment secret is needed.
+
+After the first successful deployment, the catalogue will be available at:
+[Device catalogue on GitHub Pages](https://amirshnll.github.io/custom-device-emulation-chrome/).
+
+For forks, use the URL shown by your repository's Pages deployment. The website uses relative asset and data URLs so it also works under a repository subpath.
 
 ## Chrome extension
 
